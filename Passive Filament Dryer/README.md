@@ -9,7 +9,7 @@ BOM:
 - Filament: use filament that its not crazy to absorbe moisture, maybe PLA, ABS, ASA... PETG not good 
 
 - Plastic container: https://www.amazon.de/dp/B0CFLJCJSF?th=1
-           Please observe the container model, with tree ribs for handling. This is the container I uset to model the base of. Other type, maybe, will not fit.
+           Please observe the container model, with tree ribs for handling. This is the container I uset to model the base for. Other type, maybe, will not fit.
 
 - Hygromether  https://www.amazon.de/-/en/Farerkass-Hygrometer-Thermometer-Temperature-Hydrometer/dp/B0DK4P9RDS  or similar
 
@@ -18,3 +18,5 @@ BOM:
 - M3x25 x4
 
 - M3x10 x2
+
+- ECAS connector x1
