@@ -3,7 +3,7 @@
 Simple passive filament dryer. My ideea was to not modify the palstic container, for some reason...
 The rubber gasket in the container lid need to be trasfered into the filament dryer base. If you want the filament to come out from annother direction (further up, from the top, etc) feel free to drill a suitable hole into the plastic container for some connectors ( example: https://www.amazon.de/dp/B0DDT1NGJ9 ) and use it like as you want. 
 
-For drying agent use silica gel dessicant direct in the base, or silica gel dessicant bags, or, maybe something like these: https://www.printables.com/model/65922-silica-gel-spool-container   https://www.thingiverse.com/thing:6028663  placed in the middle of the spool.
+For drying agent use silica gel dessicant direct in the base, or silica gel dessicant bags, or, maybe something like these: https://www.printables.com/model/65922-silica-gel-spool-container  - https://www.thingiverse.com/thing:6028663  placed in the middle of the spool.
 
 BOM:
 
