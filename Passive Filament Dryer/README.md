@@ -2,7 +2,7 @@
 
 You can buy this kind of thing from Aliexpress for under 15$ shiped, or you can make this:
 
-![](Images/Image03.jpg?raw=true)
+![](Images/Image03.jpg)
 
 Simple passive filament dryer. My ideea was to not modify the palstic container, for some reason...
 The rubber gasket from the container lid need to be trasfered into the filament dryer base. If you want the filament to come out from annother direction (further up, from the top, etc) feel free to drill a suitable hole into the plastic container for some connectors ( example: https://www.amazon.de/dp/B0DDT1NGJ9 ) and use it as you want. 
